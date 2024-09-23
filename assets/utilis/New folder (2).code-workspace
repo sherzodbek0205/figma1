@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "New folder (2)",
+			"path": "../../../../New folder (2)"
+		},
+		{
+			"name": "28-dars",
+			"path": "../../../../28-dars"
+		},
+		{
+			"name": "New folder (3)",
+			"path": "../../../../New folder (3)"
+		},
+		{
+			"name": "32-dars",
+			"path": "../.."
+		},
+		{
+			"name": "New folder (4)",
+			"path": "../../../../New folder (4)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "32-dars",
+		"liveServer.settings.port": 5501
+	}
+}
